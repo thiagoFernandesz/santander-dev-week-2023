@@ -52,3 +52,9 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+
+## IMPORTANTE
+
+Este projeto foi construído com um viés totalmente educacional para a DIO.
+
+### [digitalinnovationone/santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api)
